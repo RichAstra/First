@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Sway Presentation</title>
+</head>
+<body>
+    <!-- Paste your Sway embed code here -->
+    <iframe src="https://sway.cloud.microsoft/s/9mcPpzNfjBmfdNps/embed" style="border: 0; position:absolute; top:0; left:0; right:0; bottom:0; width:100%; height:100%"></iframe>
+</body>
+</html>
